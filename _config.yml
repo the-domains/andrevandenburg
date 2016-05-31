@@ -1,0 +1,28 @@
+name: AndreVandenburg
+favicon: null
+layout_spectrum: 0.5336041382979602
+typography_spectrum: 0.8405230618081987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6347056298982352
+  lightness: 0.9549886686727405
+  saturation: 0.5825075441971421
+  rhythmicContrast: 0.8147711369674653
+purpose: []
