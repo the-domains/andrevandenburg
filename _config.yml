@@ -1,6 +1,6 @@
 name: AndreVandenburg
 favicon: null
-layout_spectrum: 0.5336041382979602
+layout_spectrum: 0.5062
 typography_spectrum: 0.8405230618081987
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.6347056298982352
-  lightness: 0.9549886686727405
-  saturation: 0.5825075441971421
-  rhythmicContrast: 0.8147711369674653
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
